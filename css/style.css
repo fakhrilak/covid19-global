@@ -2,3 +2,45 @@ h3 {
   font-size: 4rem;
   font-weight: bold;
 }
+
+.jumbotron {
+  background-color: #131b2a;
+  color: white;
+}
+
+body {
+  background-color: #0d1626;
+  color: white;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #bb42ff;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  color: white;
+  background-color: #9737cd;
+  border-color: #8d32c0 #8d32c0 #bb42ff;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  color: white;
+  background-color: #9737cd;
+  border-color: #8d32c0 #8d32c0 #bb42ff;
+}
+
+.nav-tabs .nav-link:hover {
+  color: white;
+  background-color: #9737cd;
+  border-color: #8d32c0 #8d32c0 #bb42ff;
+}
+
+a {
+  color: #ffda88;
+}
+
+.table {
+  color: #f2ffa9;
+}
